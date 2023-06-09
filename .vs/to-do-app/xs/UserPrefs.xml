@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{F4E31C32-7A56-476F-9D1C-2C227130B551}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.to-do-app PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6DA2B99F-D5C5-4B17-AE19-B0E4A1595109" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6DA2B99F-D5C5-4B17-AE19-B0E4A1595109" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="README.md">
+    <Files>
+      <File FileName="to-do-app/DetailPage.xaml" Line="19" Column="1" />
+      <File FileName="to-do-app/ViewModels/DetailViewModel.cs" Line="25" Column="1" />
+      <File FileName="README.md" Line="2" Column="104" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="to-do-app" expanded="True">
+            <Node name="to-do-app" expanded="True" selected="True">
+              <Node name="ViewModels" expanded="True" />
+              <Node name="AppShell.xaml" expanded="True" />
+              <Node name="DetailPage.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
