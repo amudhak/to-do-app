@@ -8,11 +8,12 @@
 
     <ScrollView>
         <Editor x:Name="editor"
-            BackgroundColor="AliceBlue"
-            Placeholder="Add details here"
-            AutoSize="TextChanges"
-            TextChanged="OnEditorTextChanged"
-            Completed="OnEditorCompleted"/>
+        VerticalOptions="Start"
+        AutoSize="TextChanges"
+        Placeholder="Add details here"
+        TextChanged="OnEditorTextChanged"
+        Completed="OnEditorCompleted"/>
+
     </ScrollView>
 
 </ContentPage>

@@ -16,7 +16,9 @@ Run the project in the active run configuration.
 https://www.youtube.com/playlist?list=PLdo4fOcmZ0oUBAdL2NwBpDs32zwGqb9DY
 
 ## To Do
-Text added to the details page isn't saved after navigating back to the main page.
+How to save data between sessions
+
+Edit app appearance so does not go past what is visible on screen.
 
 ## License
 GNU GENERAL PUBLIC LICENSE

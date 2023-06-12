@@ -5,8 +5,8 @@
              xmlns:viewmodel="clr-namespace:to_do_app.ViewModel"
              x:DataType="viewmodel:MainViewModel">
 
-     <Grid RowDefinitions="Auto, Auto, *"
-          ColumnDefinitions="*, 100"
+     <Grid RowDefinitions="100, Auto, *"
+          ColumnDefinitions=".80*, .20*"
           Padding="10"
           RowSpacing="10"
           ColumnSpacing="10">
